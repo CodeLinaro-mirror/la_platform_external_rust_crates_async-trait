@@ -1,0 +1,19 @@
+name: "async-trait"
+description: "Async trait methods."
+third_party {
+  url {
+    type: HOMEPAGE
+    value: "https://crates.io/crates/async-trait"
+  }
+  url {
+    type: ARCHIVE
+    value: "https://static.crates.io/crates/async-trait/async-trait-0.1.40.crate"
+  }
+  version: "0.1.40"
+  license_type: NOTICE
+  last_upgrade_date {
+    year: 2020
+    month: 9
+    day: 1
+  }
+}
